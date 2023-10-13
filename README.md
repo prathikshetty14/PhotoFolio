@@ -36,26 +36,24 @@ To get started with PhotoFolio, follow the installation and usage instructions b
 - Node.js and npm installed on your machine.
 - Access to a Firestore database for storing data.
 
+
 ## Installation
 
 1. Clone the repository:
    ```sh
    git clone https://github.com/prathikshetty14/PhotoFolio
 2. Install project dependencies:
-  ```sh
+  ```
   cd photofolio
   npm install
+```
 
 ## Usage
 
 1. Configure Firestore: Set up a Firestore database and obtain the necessary credentials.
-
 2. Set up Firebase: Create a Firebase project and add the Firebase configuration to your project.
-
 3. Start the development server:
-  ```sh
-  npm start
-
+   ```npm start```
 4. Open your browser and navigate to `http://localhost:3000` to use PhotoFolio.
 
 ## Author
