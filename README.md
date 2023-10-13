@@ -43,10 +43,10 @@ To get started with PhotoFolio, follow the installation and usage instructions b
    ```sh
    git clone https://github.com/prathikshetty14/PhotoFolio
 2. Install project dependencies:
-  ```
-  cd photofolio
-  npm install
-```
+   ```
+   cd photofolio
+   npm install
+   ```
 
 ## Usage
 
