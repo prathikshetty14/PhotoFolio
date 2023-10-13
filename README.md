@@ -53,8 +53,10 @@ To get started with PhotoFolio, follow the installation and usage instructions b
 1. Configure Firestore: Set up a Firestore database and obtain the necessary credentials.
 2. Set up Firebase: Create a Firebase project and add the Firebase configuration to your project.
 3. Start the development server:
-   ```npm start```
-4. Open your browser and navigate to `http://localhost:3000` to use PhotoFolio.
+   ```
+   npm start
+   ```
+5. Open your browser and navigate to `http://localhost:3000` to use PhotoFolio.
 
 ## Author
 *Prathik Shetty* - **Full Stack Developer**
