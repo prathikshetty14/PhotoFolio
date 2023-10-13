@@ -1,0 +1,41 @@
+/* input box within the form */
+.input{
+    width: 55%;
+    margin: 0 2%;
+    padding: 0.5em;
+}
+
+.formContainer{
+    background-color: #F4F4F4;
+    padding: 3em 1em;
+    border-radius: 2em;
+    box-shadow: 2px 2px 8px 0px #5555;
+}
+
+.formContainer h1{
+    font-family: "Poppins";
+    margin-top: -1em;
+}
+
+.formContainer input{
+    padding-left: 2em;
+    font-size: large;
+}
+/* buttons inside the form */
+.formBtn{
+    width: 100px;
+    margin: 0 2%;
+    height: 31px;
+    color: white;
+    font-size: 14px;
+}
+
+/* clear button */
+.clearBtn{
+    background-color: #ff4d40;
+}
+
+/* add button */
+.addBtn{
+    background-color: rgb(109, 231, 146);
+}

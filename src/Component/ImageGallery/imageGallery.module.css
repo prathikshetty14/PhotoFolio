@@ -1,0 +1,37 @@
+.btnContainer{
+    height: auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.btnContainer input{
+    width: 50%;
+    background-color: #F4F4F4;
+}
+
+.btn{
+    width: 90px;
+    height: 31px;
+    color: white;
+}
+
+.backBtn{
+    float: left;
+    background-color: rgb(109, 109, 231);
+}
+
+.addBtn{
+    float: right;
+    background-color: rgb(109, 109, 231);
+}
+
+
+.imageList{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+
+
+  

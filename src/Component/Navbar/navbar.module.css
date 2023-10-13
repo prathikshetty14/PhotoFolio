@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+/* navbar style */
+.navbar{
+    margin-top: -16px;
+    width: 98%;
+    height: 60px;
+    background-color: rgb(109, 109, 231);
+    color:white;
+    padding:10px 1%;
+    display: flex;
+    align-self: center;
+}
+
+/* navbar heading */
+.navbar span{
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 16px;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* navbar cover image */
+.coverImage{
+    height:45px;
+    width: 45px;
+    margin-right: 5px;
+    margin-top: 15px;
+    margin-left: 40%;
+}

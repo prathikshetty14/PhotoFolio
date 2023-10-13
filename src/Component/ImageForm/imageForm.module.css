@@ -1,0 +1,34 @@
+
+.formContainer{
+    background-color: #F4F4F4;
+    padding: 1em;
+    border-radius: 2em;
+    box-shadow: 2px 2px 8px 0px #5555;
+}
+
+
+/* input box  */
+.inputBox{
+    width: 43%;
+    margin-right: 2%;    
+    padding: 0.5em;
+    padding-left: 1em;
+}
+
+/* buttons */
+.btn{
+    margin: 15px;
+    width: 100px;
+    height: 31px;
+    color: white;
+}
+
+/* add button */
+.add{
+    background-color: rgb(109, 231, 146);;
+}
+
+/* clear button */
+.clear{
+    background-color: #ff4d40;
+}
